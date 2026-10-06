@@ -1,0 +1,16 @@
+# Keil / MDK build outputs
+MDK-ARM/**/*.o
+MDK-ARM/**/*.d
+MDK-ARM/**/*.crf
+MDK-ARM/**/*.htm
+MDK-ARM/**/*.hex
+MDK-ARM/**/*.axf
+MDK-ARM/**/*.map
+MDK-ARM/**/*.lnp
+MDK-ARM/**/*.dep
+MDK-ARM/**/*.iex
+MDK-ARM/**/*.lst
+MDK-ARM/**/JLinkLog.txt
+MDK-ARM/**/*.uvguix.*
+MDK-ARM/JLinkLog.txt
+MDK-ARM/JLinkSettings.ini
